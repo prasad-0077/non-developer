@@ -3,7 +3,7 @@ name: Run Shell Script
 on:
   push:
     branches:
-      - main  # change to your working branch if needed
+      - main  # change to your working branch if needed!
 
 jobs:
   execute-script:
